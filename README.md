@@ -51,10 +51,10 @@ The project highlights **sector (especially technology and healthcare)**, **fund
 - **Development Environment**: Jupyter Notebook
 
 ## Figures
-1. **Funding Stage Distribution**: ![Funding Stages](![Figure1](https://github.com/user-attachments/assets/6a673000-d9b4-45af-abf9-fefe0e8ceadc)) - Overview of startup distribution across different funding stages.
-2. **EDA Insights**: ![EDA](![Figure3](https://github.com/user-attachments/assets/6f5821c3-e7cb-4803-8883-655dbca2a298)) - Company data by URL endings and name length, highlighting .net as a prominent domain outside .com.
-3. **Success Rate by Timeline**: ![Success Rate](path_to_Figure4.png) - Success rate trends pre- and post-recession.
-4. **ROC Curves**: ![ROC Curve](path_to_Figure5.png) - True Positive Rate vs. False Positive Rate, illustrating model performance.
+1. **Funding Stage Distribution**: ![Funding Stages](Figure1.png) - Overview of startup distribution across different funding stages.
+2. **EDA Insights**: ![EDA](Figure3.png) - Company data by URL endings and name length, highlighting .net as a prominent domain outside .com.
+3. **Success Rate by Timeline**: ![Success Rate](Figure4.png) - Success rate trends pre- and post-recession.
+4. **ROC Curves**: ![ROC Curve](Figure5.png) - True Positive Rate vs. False Positive Rate, illustrating model performance.
 
 ## Conclusion
 **Venture-Vision** offers venture capitalists a robust framework for identifying high-growth startups. By combining predictive modeling with strategic insights, this project empowers investors to make informed decisions in a complex and dynamic market. It serves as an essential tool for venture capital firms, blending data science with financial insight to drive smarter investments.
